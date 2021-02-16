@@ -1,5 +1,5 @@
 module IssuesPanelHelper
-
+#test
   def _project_issues_panel_path(project, *args)
     if project
       project_issues_panel_path(project, *args)
